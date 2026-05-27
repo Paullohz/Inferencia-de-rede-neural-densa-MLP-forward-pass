@@ -1,0 +1,2 @@
+# Infer-ncia-de-rede-neural-densa-MLP-forward-pass-
+Trabalho realizado com intuito de avaliar o impacto do paralelismo e da arquitetura computacional no desempenho de inferência de redes neurais densas (MLP), por meio da implementação do forward pass em CPU e CUDA, comparação com PyTorch/TensorFlow em GPU e análise da relação entre tamanho de batch e intensidade aritmética das operações matriciais.
