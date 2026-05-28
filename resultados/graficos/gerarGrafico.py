@@ -4,8 +4,8 @@ import pandas as pd
 # 1. Organizando os dados
 data = {
     "BATCH_SIZE": [1, 64, 256, 1024],
-    "Código CPU (ms)": [0.1528, 10.0222, 41.7919, 163.5949],
-    "Código GPU CUDA (ms)": [30.2633, 28.4229, 117.9852, 32.0763],
+    "Código CPU (ms)": [0.1528, 0.1565, 0.1632, 0.1597],
+    "Código GPU CUDA (ms)": [30.2633, 0.4441, 0.4608, 0.0313],
     "Código GPU PYTORCH (ms)": [0.1266, 0.1549, 0.1427, 0.1780],
 }
 
