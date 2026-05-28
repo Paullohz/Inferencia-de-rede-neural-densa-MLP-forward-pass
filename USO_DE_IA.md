@@ -8,7 +8,7 @@
 - Auxílio na organização do projeto
 - Explicação de conceitos relacionados a MLP, CUDA e inferência
 - Apoio na revisão de códigos e documentação
-- Correção ortográfica e refinamento textual
+- Correção ortográfica e refinamento textual no código e no artigo.
 
 ## Exemplos de prompts
 - "Como implementar o forward pass de uma MLP?"
